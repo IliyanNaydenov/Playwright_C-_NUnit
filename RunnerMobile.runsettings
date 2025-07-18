@@ -1,0 +1,14 @@
+﻿<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <DEVICE_MODE>mobile</DEVICE_MODE>
+    </EnvironmentVariables>
+  </RunConfiguration>
+  <Playwright>
+    <BrowserName>chromium</BrowserName>
+    <ExpectTimeout>5000</ExpectTimeout>
+    <LaunchOptions>
+      <Headless>false</Headless>
+    </LaunchOptions>
+  </Playwright>
+</RunSettings>

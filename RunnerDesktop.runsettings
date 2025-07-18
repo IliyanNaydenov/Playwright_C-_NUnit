@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<EnvironmentVariables>
+			<DEBUG>pw:api</DEBUG>
+			<DEVICE_MODE>desktop</DEVICE_MODE>
+		</EnvironmentVariables>
+	</RunConfiguration>
+	<Playwright>
+		<BrowserName>chromium</BrowserName>
+		<ExpectTimeout>5000</ExpectTimeout>
+		<LaunchOptions>
+			<Headless>false</Headless>
+			<Channel>chromium</Channel>
+		</LaunchOptions>
+	</Playwright>
+</RunSettings>
